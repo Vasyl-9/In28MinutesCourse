@@ -1,1 +1,1 @@
-# In28MinutesCourse Spring Cloud Microservices
+# In28Minutes course Spring Cloud Microservices
